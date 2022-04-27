@@ -50,6 +50,7 @@ export default {
     padding: 10px 0;
     border-radius: 4px;
     text-align: center;
+    color: $primary;
     &.no-result {
       padding: 70px 0;
     }

@@ -127,9 +127,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 .container {
   padding-top: 40px;
+  color: $primary;
 }
 .skeletons {
   display: flex;
@@ -179,6 +179,7 @@ export default {
     background-size: cover;
     background-position: center;
     position: relative;
+    color: $primary;
   }
   .specs {
     flex-grow: 1;

@@ -35,6 +35,7 @@ export default {
 </script>
 
 <style lang="scss" scoped> 
+
 .spinner-border {
   margin: auto;
   top: 0;
